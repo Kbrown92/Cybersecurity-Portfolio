@@ -17,12 +17,33 @@ I currently work in healthcare and specialty pharmacy, where I help protect sens
 - HIPAA Compliance
 - Vulnerability Management
 
+## Technical Skills
+
+### Security
+
+- Risk Assessment
+- Vulnerability Management
+- Incident Response
+- Security Auditing
+
+### Networking
+
+- TCP/IP
+- DNS
+- Network Fundamentals
+
+### Compliance
+
+- HIPAA
+- Healthcare Privacy
+- Information Security
+
 ## Current Training
 
 - TryHackMe
 - LetsDefend
 - Microsoft Learn
-- Security+ Preparation
+- CompTIA Security+ Preparation
 
 ## Portfolio Projects
 
@@ -44,3 +65,11 @@ I currently work in healthcare and specialty pharmacy, where I help protect sens
 
 ### In Progress
 - CompTIA Security+
+
+## 2026 Goals
+
+- Earn CompTIA Security+
+- Complete 50+ cybersecurity labs
+- Build a home lab environment
+- Complete 10 cybersecurity portfolio projects
+- Transition into a Security Analyst role
